@@ -22,6 +22,6 @@ function App() {
 			</List>
 		</div>
 	);
-}
+} 
 
 export default App;
